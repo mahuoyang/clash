@@ -9,6 +9,6 @@ IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
 IP-CIDR,224.0.0.0/4,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
-DOMAIN-SUFFIX,cn,no-resolve
 DOMAIN-KEYWORD,-cn,no-resolve
 GEOIP,CN,DIRECT
+DOMAIN-SUFFIX,cn,no-resolve
